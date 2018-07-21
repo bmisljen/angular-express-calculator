@@ -1,0 +1,29 @@
+{
+  "name": "angular_spa",
+  "version": "1.0.0",
+  "description": "simple angular nodejs expressjs app ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "angular": "^1.7.2",
+    "angular-route": "^1.7.2",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.1.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": "8.11.3"
+  },
+  "keywords": [
+    "angular",
+    "express",
+    "node",
+    "heroku"
+  ],
+  "author": "boris misljencevic",
+  "license": "MIT"
+}
